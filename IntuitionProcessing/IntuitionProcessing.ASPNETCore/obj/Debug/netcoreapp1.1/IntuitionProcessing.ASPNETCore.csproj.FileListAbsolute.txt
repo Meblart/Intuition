@@ -1,0 +1,17 @@
+D:\Joanna\_IntuitionProcessing\Stronka\IntuitionProcessing\IntuitionProcessing.ASPNETCore\bin\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.deps.json
+D:\Joanna\_IntuitionProcessing\Stronka\IntuitionProcessing\IntuitionProcessing.ASPNETCore\bin\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.runtimeconfig.json
+D:\Joanna\_IntuitionProcessing\Stronka\IntuitionProcessing\IntuitionProcessing.ASPNETCore\bin\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.runtimeconfig.dev.json
+D:\Joanna\_IntuitionProcessing\Stronka\IntuitionProcessing\IntuitionProcessing.ASPNETCore\bin\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.dll
+D:\Joanna\_IntuitionProcessing\Stronka\IntuitionProcessing\IntuitionProcessing.ASPNETCore\bin\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.pdb
+D:\Joanna\_IntuitionProcessing\Stronka\IntuitionProcessing\IntuitionProcessing.ASPNETCore\obj\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.AssemblyInfo.cs
+D:\Joanna\_IntuitionProcessing\Stronka\IntuitionProcessing\IntuitionProcessing.ASPNETCore\obj\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.dll
+D:\Joanna\_IntuitionProcessing\Stronka\IntuitionProcessing\IntuitionProcessing.ASPNETCore\obj\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.pdb
+D:\Joanna\_IntuitionProcessing\Stronka\IntuitionProcessing\IntuitionProcessing.ASPNETCore\obj\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.csprojResolveAssemblyReference.cache
+D:\Joanna\_IntuitionProcessing\Stronka_Testy\IntuitionProcessing\IntuitionProcessing.ASPNETCore\bin\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.deps.json
+D:\Joanna\_IntuitionProcessing\Stronka_Testy\IntuitionProcessing\IntuitionProcessing.ASPNETCore\bin\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.runtimeconfig.json
+D:\Joanna\_IntuitionProcessing\Stronka_Testy\IntuitionProcessing\IntuitionProcessing.ASPNETCore\bin\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.runtimeconfig.dev.json
+D:\Joanna\_IntuitionProcessing\Stronka_Testy\IntuitionProcessing\IntuitionProcessing.ASPNETCore\bin\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.dll
+D:\Joanna\_IntuitionProcessing\Stronka_Testy\IntuitionProcessing\IntuitionProcessing.ASPNETCore\bin\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.pdb
+D:\Joanna\_IntuitionProcessing\Stronka_Testy\IntuitionProcessing\IntuitionProcessing.ASPNETCore\obj\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.AssemblyInfo.cs
+D:\Joanna\_IntuitionProcessing\Stronka_Testy\IntuitionProcessing\IntuitionProcessing.ASPNETCore\obj\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.dll
+D:\Joanna\_IntuitionProcessing\Stronka_Testy\IntuitionProcessing\IntuitionProcessing.ASPNETCore\obj\Debug\netcoreapp1.1\IntuitionProcessing.ASPNETCore.pdb
